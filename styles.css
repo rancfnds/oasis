@@ -1,0 +1,44 @@
+
+body
+{
+  color: antiquewhite;
+}
+
+
+.content {
+  display: flex;
+  align-items:center;
+  color: black;
+  font-size: larger;
+  padding: 10%;
+}
+
+.image {
+  flex: 0 0 auto;
+  margin-right: 10px;
+}
+
+.colum {
+  flex: 1 1 auto;
+}
+
+
+
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+.content1 {
+  display: flex;
+  align-items:center;
+  color: black;
+  font-size: larger;
+  padding: 10%;
+}
